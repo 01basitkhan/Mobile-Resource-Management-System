@@ -1,0 +1,11 @@
+,Utilization,Status,Criticality,Cost(rupee)
+Crane,85%,Utilized,High,500
+Forklift,75%,Utilized,Medium,300
+Boom Lift,95%,N/A(emerg),High,700
+Scissor Lift,80%,Utilized,Medium,400
+Excavator,70%,Utilized,Medium,600
+Bulldozer,100%,N/A(emerg),High,800
+Tow Truck,90%,N/A(emerg),Medium,400
+Mobile Generator,85%,Utilized,Low,300
+Concrete Pump,60%,Utilized,Medium,900
+Mobile Medical Unit,90%,N/A(emerg),High,1000
